@@ -31,7 +31,7 @@ with open("books.csv", "w", newline = "") as csv_file:
 with open("books.csv", "a") as csv_file:
     writer = csv.writer(csv_file)
     
-    # We will now run the loop to extract the data on the first page only.
+    # We will now run the loop to extract the data for all pages.
     for book in books:
         title = book.find("h3").a["title"].strip()
 
