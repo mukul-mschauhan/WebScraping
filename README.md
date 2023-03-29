@@ -5,4 +5,4 @@ This repository has the scripts related to Web Scraping based on Beautiful Soup,
 
 This is the Repository for understanding the work related to Web Scraping based on Beautiful Soup, Selenium and Others.
 
-1. Linear Regression Model & Assumptions [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Linear%20Regression%20-%20TTest%20FTest%20%26%20Assumptions.ipynb)
+1. Scraping https://books.toscrape.com using Beautiful Soup[Click Here](https://github.com/mukul-mschauhan/webscraping/blob/main/scrape_books.py)
