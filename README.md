@@ -1,7 +1,4 @@
-# webscraping
-This repository has the scripts related to Web Scraping based on Beautiful Soup, Selenium and Others.
-
-## Welcome to the WebScraping Repository!
+# Welcome to the WebScraping Repository!
 
 This is the Repository for understanding the work related to Web Scraping based on Beautiful Soup, Selenium and Others.
 
